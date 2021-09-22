@@ -2,6 +2,7 @@
 
 ML Enthusiast
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi2001&label=Profile%20views&color=0e75b6&style=flat" alt="mansi2001" /> </p>
 
 - 🔭 I’m pursuing my B.Tech in Computer Science with specialisation in AI and ML
 - 🌱 I’m currently expanding my shell to learn more each day
