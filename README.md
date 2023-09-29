@@ -4,7 +4,7 @@ ML Enthusiast || Web Developer
 
 - 🔭 I’m pursuing my B.Tech in Computer Science with specialisation in AI and ML
 - 🌱 I’m currently expanding my shell to learn more each day
-- 👯 I’m really interested in setting up my career in Machine Learning field
+- 👯 I'm a Programming Enthusiast having an interest in Web Development & Machine Learning
 - ⚡ Keen worker, Responsible and Energetic
 - 🤓 I love music, sketching, travelling and exploring new places
 
@@ -13,6 +13,7 @@ ML Enthusiast || Web Developer
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  &nbsp;
   <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  &nbsp;
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
 
